@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
 // Create floating particles
 function createParticles() {
     const particles = document.getElementById('particles');
-    const particleEmojis = ['❤️', '💕', '💖', '💗', '🌸', '🌺', '✨', '💫', '🦋'];
+    const particleEmojis = ['🥳', '🎉', '🎂', '🍆', '🌸', '🌺', '✨', '💫', '🦋'];
 
     for (let i = 0; i < 15; i++) {
         const particle = document.createElement('div');
